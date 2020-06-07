@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src=".github/logo.svg" alt="Logo" width="270" height="270">
+  <img src="https://raw.githubusercontent.com/bernardohmr/next-level-week-01/e05106215839a4d38b3be5fcfbdc1e338de4abbe/.github/logo.svg" alt="Logo" width="270" height="270">
 
   <h1 align="center">:rocket:  RocketSeat - Next Level Week #1</h1>
 </p>
